@@ -36,8 +36,8 @@
  
 | Projeto | O que é |
 | --- | --- |
-| 🎮 **[Portifólio ](https://github.com/DevDanSant/https://github.com/DevDanSant/portifolio/tree/main)** | Blog onde faço apresento meus trabalhos, arte inspirada no anime cowboy bepob. |
-| 🌐 **[Site DevNews](https://github.com/DevDanSant/LINK-DO-REPO)** | Site responsivo criado em um projeto da Dnc treinamentos, com foco na responsividade do site |
+| 🎮 **[Portifólio ](https://portifoliodevsant.netlify.app/)** | Blog onde faço apresento meus trabalhos, arte inspirada no anime cowboy bepob. |
+| 🌐 **[Site DevNews](https://candid-treacle-e1bd2d.netlify.app/)** | Site responsivo criado em um projeto da Dnc treinamentos, com foco na responsividade do site |
 
 
 > 🔗 Veja todos os repositórios na aba **[Repositories](https://github.com/DevDanSant?tab=repositories)**.
