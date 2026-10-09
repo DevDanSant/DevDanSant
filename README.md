@@ -1,4 +1,4 @@
-<h1 align="center">Fala, eu sou o Dan 👋</h1>
+<h1 align="center">Fala, eu sou o Daniel Santos 👋</h1>
 
 <p align="center">
   <b>Estudante de Engenharia de Software · Desenvolvedor Full Stack em formação</b><br>
